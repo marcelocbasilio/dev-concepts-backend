@@ -49,3 +49,7 @@
       console.log(title)
       console.log(owner)
       Resultado = Aplicativo React Native
+
+# Middleware
+
+> Interceptador de requisições que pode interromper totalmente a requisição ou alterar dados da requisição.
